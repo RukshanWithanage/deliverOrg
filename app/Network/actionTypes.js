@@ -1,0 +1,2 @@
+export const NETWORK_REACH_REQUEST = 'Network/NETWORK_REACH_REQUEST';
+export const NETWORK_CHANGED = 'Network/NETWORK_CHANGED';
